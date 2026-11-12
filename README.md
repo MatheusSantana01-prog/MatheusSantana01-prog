@@ -31,7 +31,7 @@ I'm a developer interested in building practical solutions with technology. I en
 
 ## 🛠️ Tecnologias | Tech stack
 
-**`Python`** · **`JavaScript`** · **`AWS`** · **`Git`** · **`GitHub`** · **`Streamlit`**
+**`Python`** · **`JavaScript`** · **`AWS`** · **`Git`** · **`GitHub`** · **`Streamlit`**· **`FastAPI`**
 
 > 💡 Tecnologias em uso ou estudo / Technologies I'm using or learning.
 
