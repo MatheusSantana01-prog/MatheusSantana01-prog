@@ -1,16 +1,66 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**MatheusSantana01-prog/MatheusSantana01-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Olá, eu sou Matheus Santana!
+### Hi there, I'm Matheus Santana!
 
-Here are some ideas to get you started:
+**`Software Developer | Python • JavaScript • Cloud`**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="assets/banner.svg" alt="Matheus Santana — Code. Build. Evolve." width="100%" />
+
+[GitHub · MatheusSantana01-prog](https://github.com/MatheusSantana01-prog)
+
+</div>
+
+---
+
+## 👨‍💻 Sobre mim | About me
+
+🇧🇷 **PT-BR**
+
+Sou um desenvolvedor interessado em criar soluções práticas com tecnologia. Gosto de desenvolver sistemas, automatizar processos e explorar ferramentas de computação em nuvem. Estou sempre aprendendo e aprimorando meus projetos.
+
+🇺🇸 **EN**
+
+I'm a developer interested in building practical solutions with technology. I enjoy developing systems, automating workflows, and exploring cloud computing tools. I'm always learning and improving my projects.
+
+- 🔭 **Atualmente | Currently:** desenvolvendo projetos e aprimorando minhas habilidades / building projects and improving my skills.
+- 🌱 **Interesses | Interests:** desenvolvimento de software, automação e cloud / software development, automation, and cloud.
+- ⚡ **Filosofia | Mindset:** *Code. Build. Evolve.*
+
+---
+
+## 🛠️ Tecnologias | Tech stack
+
+**`Python`** · **`JavaScript`** · **`AWS`** · **`Git`** · **`GitHub`** · **`Streamlit`**
+
+> 💡 Tecnologias em uso ou estudo / Technologies I'm using or learning.
+
+---
+
+## 🚀 Projetos em destaque | Featured projects
+
+### 🖥️ Sistema de Gestão de T.I. | IT Inventory Management
+
+Sistema voltado ao controle de equipamentos e estoque de T.I., com foco em organização e gestão de movimentações.
+
+*An IT equipment and inventory management project focused on organization and stock tracking.*
+
+**Stack:** Python • Streamlit
+
+🔗 [Ver repositório | View repository](https://github.com/MatheusSantana01-prog/T.I)
+
+
+
+---
+
+## 🌐 Conecte-se comigo | Connect with me
+
+<div align="center">
+
+[💻 GitHub](https://github.com/MatheusSantana01-prog)
+
+
+**“Transformando ideias em código.”**  
+*“Turning ideas into code.”*
+
+</div>
