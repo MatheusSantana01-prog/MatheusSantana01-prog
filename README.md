@@ -39,15 +39,16 @@ I'm a developer interested in building practical solutions with technology. I en
 
 ## 🚀 Projetos em destaque | Featured projects
 
-### 🖥️ Sistema de Gestão de T.I. | IT Inventory Management
+### 💻 BrickKode — Sistema de Gestão para Restaurantes e Mercados | Restaurant & Retail Management System
 
-Sistema voltado ao controle de equipamentos e estoque de T.I., com foco em organização e gestão de movimentações.
+Sistema completo de gestão operacional com demonstrações interativas para restaurantes (da mesa ao fechamento) e mercados/lojas (vendas e estoque conectados), abrangendo controle de pedidos, cozinha, caixa, fiscal, relatórios e indicadores.
 
-*An IT equipment and inventory management project focused on organization and stock tracking.*
+*A complete operational management system featuring interactive demos for restaurants (table to checkout) and retail/markets (connected sales and inventory), covering order tracking, kitchen, POS, tax, reports, and metrics.*
 
-**Stack:** Python • Streamlit
+**Stack:** React • TypeScript • Vite *(ajuste conforme as tecnologias utilizadas)*
 
-🔗 [Ver repositório | View repository](https://github.com/MatheusSantana01-prog/T.I)
+🔗 [Acessar demonstração | Live demo](https://brickkode-demo.vercel.app/)
+
 
 
 
